@@ -1,10 +1,10 @@
 {
   "name": "nookylauncher",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "productName": "Nooky Launcher",
   "description": "Launcher Pour NookyCraft",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) And Sleepaii_ (https://github.com/TriggeredAkuliex)",
-  "license": "UNLICENSED",
+  "license": "LICENSED",
   "homepage": "https://github.com/TriggeredAkuliex/NookyLauncher",
   "bugs": {
     "url": "https://github.com/TriggeredAkuliex/NookyLauncher/issues"
